@@ -108,12 +108,12 @@
     ```
         x = x + z;
     ```
-        to add z to the current value of x
+    to add z to the current value of x
     - Alternatively, you could also do
     ```
         x += z;
     ```
-        which would do the same operation as above
+    which would do the same operation as above
     
     - Add
     ```
