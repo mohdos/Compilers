@@ -1,0 +1,4 @@
+This is the output quadruples: 
+operator         op1           op2          result
+=                       0                    y
+Variable used without being initialized

@@ -1,0 +1,3 @@
+int x=3;
+float y=3.4;
+int z=3.4;

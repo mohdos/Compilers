@@ -1,0 +1,7 @@
+This is the output quadruples: 
+operator         op1           op2          result
+=                       emad                    x
+=                       osama                    y
++                  y           x             x             
+=                       c                    z
+=                       d                    t

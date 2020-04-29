@@ -1,0 +1,5 @@
+This is the output quadruples: 
+operator         op1           op2          result
+=                       emad                    x
+This operator cannot be applied to strings
+

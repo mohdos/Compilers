@@ -1,0 +1,5 @@
+This is the output quadruples: 
+operator         op1           op2          result
+=                       3                    x
+=                       3.400000                    y
+type mismatch

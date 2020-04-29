@@ -1,0 +1,5 @@
+This is the output quadruples: 
+operator         op1           op2          result
+=                       0                    y
+Use of undeclared variable
+

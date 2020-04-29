@@ -1,0 +1,6 @@
+This is the output quadruples: 
+operator         op1           op2          result
+=                       3                    x
+=                       3                    y
+Variable redeclared
+

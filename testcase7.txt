@@ -1,0 +1,2 @@
+string x="emad";
+x=x-"rd";

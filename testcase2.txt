@@ -1,0 +1,9 @@
+string x="emad";
+string y;
+y="osama";
+
+x=y+x;
+
+char z='c';
+char t; 
+t='d';
