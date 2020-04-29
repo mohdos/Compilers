@@ -158,7 +158,7 @@
         int x = 4;
         int y = z + x;
     ```
-        (where z is an undeclared variable)
+    (where z is an undeclared variable)
 
     III. Use of uninitialized variable
     ```    
